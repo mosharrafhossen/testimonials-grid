@@ -96,14 +96,14 @@ body{
 }
 
 .card4{
-  background:hsl(219,29%,14%);
-  color:white;
+  background: white;
+  color: black;
   grid-column:1/2;
 }
 
 .card5{
-  background:white;
-  color:hsl(219,29%,14%);
+  background:hsl(219,29%,14%);
+  color: white;
   grid-column:2/4;
 }
 
